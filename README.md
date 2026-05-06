@@ -142,7 +142,7 @@ VISION_PROMPT = r"""请详细描述这张图片的内容，包括所有文字、
 ## 7. 文件结构
 ```
 Bundle-8/
-├── bundle7/
+├── bundle-8/
 │   ├── __init__.py      # 包初始化
 │   ├── __main__.py      # 命令行入口
 │   ├── config.py        # 所有配置项
